@@ -16,6 +16,11 @@ Currently, I'm majoring in computer science at university.
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxxyxx127&show_icons=true&theme=graywhite)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxxyxx127&layout=compact&theme=graywhite)
+
+
 <!--
 **sxxyxx127/sxxyxx127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

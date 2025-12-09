@@ -18,11 +18,3 @@ I have hands-on development experience and strong interest in **VR** and **metav
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=transparent)
-
----
-
-### ✨ Creating immersive worlds with code and creativity ✨
-
-Thanks for stopping by! 🚀

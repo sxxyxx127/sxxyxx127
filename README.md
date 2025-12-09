@@ -16,5 +16,4 @@ I have hands-on development experience and strong interest in **VR** and **metav
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
----
 
